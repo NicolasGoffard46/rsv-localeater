@@ -1,37 +1,46 @@
-# Localeater
+# <!--Localeater-->
 
-LocalEater est une application qui liste les lieux pour se nourrir et consommer autrement.
+<!--LocalEater est une application qui liste les lieux pour se nourrir et consommer autrement.-->
 
-Vous trouverez, ci-dessous, le descriptif des 3 pages / fonctionnalités de l'application.
+<!--Vous trouverez, ci-dessous, le descriptif des 3 pages / fonctionnalités de l'application.-->
 
-## Répertoire
+## <!--Répertoire-->
 
-Le répertoire liste l'ensemble des lieux et permet de les filtrer.
+<!--Le répertoire liste l'ensemble des lieux et permet de les filtrer.-->
 
-- Filtres
-  - Catégories
-    - Restaurant
-    - Magasins
-    - Producteurs
-    - les GAC
-    - Food-Truck
-    - Foires (agricoles ou autres)
-    - Marchés
-  - Distance
+- <!--Filtres-->
+  - <!--Catégories-->
+    - <!--Restaurant-->
+    - <!--Magasins-->
+    - <!--Producteurs-->
+    - <!--les GAC-->
+    - <!--Food-Truck-->
+    - <!--Foires (agricoles ou autres)-->
+    - <!--Marchés-->
+  - <!--Distance-->
 
-## Suggestion (temps réel)
+## <!--Suggestion (temps réel)-->
 
-En fonction de la géolocalisation, l'application propose les endroits les plus proches avec des suggestions de produits en vente rapide.
+<!--En fonction de la géolocalisation, l'application propose les endroits les plus proches avec des suggestions de produits en vente rapide.-->
 
-## Product Page (lieu)
+## <!--Product Page (lieu)-->
 
-La page produit décrit le lieu et doit contenir les informations suivantes :
+<!--La page produit décrit le lieu et doit contenir les informations suivantes :-->
 
-- Le nom du lieu
-- Ce qu'on y trouve (description)
-- Cartes + lien carte interactive (GMaps ou autre)
-- Coordonnées
-  - Adresse
-  - Téléphone
-  - Messenger
-  - WhatsApp
+- <!--Le nom du lieu-->
+- <!--Ce qu'on y trouve (description)-->
+- <!--Cartes + lien carte interactive (GMaps ou autre)-->
+- <!--Coordonnées-->
+  - <!--Adresse-->
+  - <!--Téléphone-->
+  - <!--Messenger-->
+  - <!--WhatsApp-->
+
+
+
+# LOCAL EATER
+
+Liens vers moodboard: 
+
+- https://www.pinterest.fr/goffard0004/localeater/
+
